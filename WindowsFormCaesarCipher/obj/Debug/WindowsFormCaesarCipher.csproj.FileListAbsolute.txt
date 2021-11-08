@@ -1,0 +1,8 @@
+C:\Users\aktec\Source\Repos\WindowsFormCaesarCipher\WindowsFormCaesarCipher\obj\Debug\WindowsFormCaesarCipher.csprojAssemblyReference.cache
+C:\Users\aktec\Source\Repos\WindowsFormCaesarCipher\WindowsFormCaesarCipher\obj\Debug\WindowsFormCaesarCipher.Form1.resources
+C:\Users\aktec\Source\Repos\WindowsFormCaesarCipher\WindowsFormCaesarCipher\obj\Debug\WindowsFormCaesarCipher.Properties.Resources.resources
+C:\Users\aktec\Source\Repos\WindowsFormCaesarCipher\WindowsFormCaesarCipher\obj\Debug\WindowsFormCaesarCipher.csproj.GenerateResource.cache
+C:\Users\aktec\Source\Repos\WindowsFormCaesarCipher\WindowsFormCaesarCipher\bin\Debug\WindowsFormCaesarCipher.exe
+C:\Users\aktec\Source\Repos\WindowsFormCaesarCipher\WindowsFormCaesarCipher\bin\Debug\WindowsFormCaesarCipher.pdb
+C:\Users\aktec\Source\Repos\WindowsFormCaesarCipher\WindowsFormCaesarCipher\obj\Debug\WindowsFormCaesarCipher.exe
+C:\Users\aktec\Source\Repos\WindowsFormCaesarCipher\WindowsFormCaesarCipher\obj\Debug\WindowsFormCaesarCipher.pdb
